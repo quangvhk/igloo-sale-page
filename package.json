@@ -1,0 +1,19 @@
+{
+  "name": "sale-page",
+  "version": "1.0.0",
+  "description": "Sale Page UI",
+  "main": "index.js",
+  "scripts": {
+    "sasstocss": "node-sass sass/main.scss css/style.css -w"
+  },
+  "keywords": [
+    "sale",
+    "page"
+  ],
+  "author": "Quang",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "node-sass": "^6.0.0"
+  }
+}
