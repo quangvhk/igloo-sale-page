@@ -70,7 +70,7 @@ $clr-blue-0: #1F91EB;
   }
   &-detail {
     display: grid;
-    font-size: 1.5rem;
+    font-size: 1.3rem;
     &--default {
       grid-template-columns: 1fr 1fr;
       .left {
@@ -89,7 +89,7 @@ $clr-blue-0: #1F91EB;
         justify-content: space-between;
         ul {
           list-style: circle inside;
-          line-height: 1.25;
+          line-height: 1.5;
         }
       }
     }

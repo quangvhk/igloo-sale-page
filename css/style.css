@@ -47,7 +47,7 @@
     max-width: 1179px; }
   .bundle-detail {
     display: grid;
-    font-size: 1.5rem; }
+    font-size: 1.3rem; }
     .bundle-detail--default {
       grid-template-columns: 1fr 1fr; }
       .bundle-detail--default .left {
@@ -64,7 +64,7 @@
         justify-content: space-between; }
         .bundle-detail--default .right ul {
           list-style: circle inside;
-          line-height: 1.25; }
+          line-height: 1.5; }
     .bundle-detail--all {
       grid-template-columns: 1fr;
       margin-top: 2rem; }
